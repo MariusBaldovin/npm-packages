@@ -2,6 +2,11 @@
 	"author": "Marius Baldovin",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This project is a node.js server course from freecodecamp",
+	"keywords": [
+		"package.json",
+		"course",
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
